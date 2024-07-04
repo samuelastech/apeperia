@@ -5,6 +5,10 @@
   font-family: 'Open Sans', 'Segoe UI', sans-serif;
 }
 
+fieldset {
+  border: none;
+}
+
 ul {
   list-style: none;
 }
